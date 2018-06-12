@@ -12,7 +12,7 @@ What is Alcoin?
 
 Alcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 12 minute block targets
- - subsidy halves in 105120 blocks (~1 years)
+ - subsidy halves in 210240 blocks (~2 years)
  - ~50 million total coins
 
 The rest is the same as Bitcoin.
