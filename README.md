@@ -1,7 +1,7 @@
 Alcoin integration/staging tree
 ================================
 
-http://www.alcoin.org
+http://www.omisaal.com/alcoin/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Alcoin Developers
