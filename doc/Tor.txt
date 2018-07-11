@@ -50,10 +50,10 @@ reachable from the Tor network. Add these lines to your /etc/tor/torrc (or equiv
 config file):
 
   HiddenServiceDir /var/lib/tor/alcoin-service/
-  HiddenServicePort 5553 127.0.0.1:5553
+  HiddenServicePort 8558 127.0.0.1:8558
 
 The directory can be different of course, but (both) port numbers should be equal to
-your alcoind's P2P listen port (5553 by default).
+your alcoind's P2P listen port (8558 by default).
 
 -externalip=X   You can tell alcoin about its publicly reachable address using
                 this option, and this can be a .onion address. Given the above
@@ -83,7 +83,7 @@ specify:
 
   ./alcoind ... -discover
 
-and open port 5553 on your firewall (or use -upnp).
+and open port 8558 on your firewall (or use -upnp).
 
 If you only want to use Tor to reach onion addresses, but not use it as a proxy
 for normal IPv4/IPv6 communication, use:

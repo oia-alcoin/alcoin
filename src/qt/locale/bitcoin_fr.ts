@@ -2237,8 +2237,8 @@ Adresse : %4
     </message>
     <message>
         <location line="-28"/>
-        <source>Listen for connections on &lt;port&gt; (default: 5553 or testnet: 15553)</source>
-        <translation>Écouter les connexions sur le &lt;port&gt; (par défaut : 5553 ou testnet : 15553)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 8558 or testnet: 48338)</source>
+        <translation>Écouter les connexions sur le &lt;port&gt; (par défaut : 8558 ou testnet : 48338)</translation>
     </message>
     <message>
         <location line="+5"/>
