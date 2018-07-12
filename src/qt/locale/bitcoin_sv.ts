@@ -2273,8 +2273,8 @@ Adress: %4
     </message>
     <message>
         <location line="+27"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 5552 or testnet: 15552)</source>
-        <translation>Lyssna på JSON-RPC-anslutningar på &lt;port&gt; (förvalt: 5552 eller testnet: 15552)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 8558 or testnet: 48338)</source>
+        <translation>Lyssna på JSON-RPC-anslutningar på &lt;port&gt; (förvalt: 8558 eller testnet: 48338)</translation>
     </message>
     <message>
         <location line="+37"/>

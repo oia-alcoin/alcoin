@@ -6405,7 +6405,7 @@ static const unsigned char * bitcoin256_xpm[] = {
 "Wh 	c #52963E",
 "Xh 	c #45892B",
 "Yh 	c #3F732B",
-"Zh 	c #355527",
+"Zh 	c #385587",
 "[h 	c #1A2912",
 "]h 	c #1B3C10",
 "^h 	c #366C22",
