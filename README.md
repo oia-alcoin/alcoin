@@ -5,9 +5,9 @@ http://www.omisaal.com/alcoin/
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2017-     Alcoin Developers
+Copyright (c) 2017-2018 Alcoin Developers
 
-Please contact omisaal@mail.com for any queries. request for more information, request to start a new peer server, request to become the administrator or request to anything.
+Please contact alcoin@omisaal.com for any queries. request for more information, request to start a new peer server, request to become the administrator or request to anything.
 
 What is Alcoin?
 ----------------
@@ -22,7 +22,7 @@ The rest is the same as Bitcoin.
  - 576 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Alcoin client sofware, see http://www.omisaal.com/alcoin/
+the Alcoin client sofware, see http://www.omisaal.com/alcoin.html
 
 License
 -------
